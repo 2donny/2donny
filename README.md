@@ -1,10 +1,3 @@
-# Hi there, I'm Edon Jung([@2donny](https://github.com/2donny))👋 
-
-## ✨ I am
--   🌱  mainly interested in Web Performance Optimization of FE
--   🧠  a guy who like to struggle with the red line
--   ✏️  always organizing what I learned on my own [Develog](https://2donny-develog.vercel.app/)
-
 ## 💫 Github Stats
 <table><tr>
 <td valign="top" width="50%">
