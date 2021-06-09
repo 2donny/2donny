@@ -1,3 +1,22 @@
+<br />
+
+## Tools I use recently
+- React.js, GraphQL, Redux, SWR, Styled-components
+
+- Node.js, TypeScript, Apollo-server
+- Prisma for ORM, Mongoose for ODM
+
+<br />
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-00B4F0?style=for-the-badge&logo=react&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+
+<br />
+
 <div>
   <img 
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2donny&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"
