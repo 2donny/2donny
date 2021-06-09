@@ -1,5 +1,3 @@
-<br />
-
 ## Tools I use recently
 - React.js, GraphQL, Redux, SWR, Styled-components
 
