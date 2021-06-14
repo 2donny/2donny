@@ -1,8 +1,10 @@
-## Tools I use recently
-- React.js, GraphQL, Redux, SWR, Styled-components
+## What I like to use
+
+- React.js, GraphQL, Styled-components
 
 - Node.js, TypeScript, Apollo-server
-- Prisma for ORM, Mongoose for ODM
+
+- Typeorm for ORM, Mongoose for ODM
 
 <br />
 
