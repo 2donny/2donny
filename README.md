@@ -1,10 +1,10 @@
 ## What I like to use
 
-- React.js, GraphQL, Styled-components
+- React.js, TypeScript, GraphQL, Styled-components
 
-- Node.js, TypeScript, Apollo-server
+- Nest.js, TypeScript, Apollo-server
 
-- Typeorm for ORM, Mongoose for ODM
+- Prisma, Mysql, PostgreSQL
 
 <br />
 
