@@ -4,7 +4,7 @@
 
 - Nest.js, TypeScript, Apollo-server
 
-- Prisma, Mysql, PostgreSQL
+- Prisma, Mysql, PostgreSQL, Mongoose
 
 <br />
 
