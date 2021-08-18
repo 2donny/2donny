@@ -2,9 +2,9 @@
 
 - React.js, TypeScript, GraphQL, Styled-components
 
-- Nest.js, TypeScript, Apollo-server
+- Node.js(Nest), TypeScript, Apollo-server
 
-- Prisma, Mysql, PostgreSQL, Mongoose
+- TypeORM, Prisma, Mysql, PostgreSQL
 
 <br />
 
