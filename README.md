@@ -6,6 +6,8 @@
 
 - TypeORM, Prisma, Mysql, PostgreSQL
 
+- AWS, Docker
+
 <br />
 
 <img src="https://img.shields.io/badge/React-00B4F0?style=for-the-badge&logo=react&logoColor=white"/></a>
