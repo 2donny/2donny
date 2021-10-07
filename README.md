@@ -1,21 +1,18 @@
-## What I like to use
+# What I like to use
 
-### Dev
+## Dev
 - React.js, TypeScript, GraphQL
 
 - Nest.js, TypeORM, Apollo-server
 
 - PostgreSQL, MySQL
 
-### Infra
+## Infra
 - AWS (EC2, S3, RDS, EBS, Lambda)
 
 - Docker, Nginx
 
 - Travis CI
-
-
-
 
 
 <br />
@@ -27,6 +24,7 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+
 
 <br />
 
