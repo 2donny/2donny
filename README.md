@@ -1,12 +1,22 @@
 ## What I like to use
 
-- React.js, TypeScript, GraphQL, Styled-components
+### Dev
+- React.js, TypeScript, GraphQL
 
-- Node.js(Nest), TypeScript, Apollo-server
+- Nest.js, TypeORM, Apollo-server
 
-- TypeORM, Prisma, Mysql, PostgreSQL
+- PostgreSQL, MySQL
 
-- AWS, Docker
+### Infra
+- AWS (EC2, S3, RDS, EBS, Lambda)
+
+- Docker, Nginx
+
+- Travis CI
+
+
+
+
 
 <br />
 
