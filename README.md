@@ -1,18 +1,26 @@
 # What I like to use
 
 ## Dev
-- React.js, TypeScript, GraphQL
+- React.js, TypeScript, React-query
 
 - Nest.js, TypeORM, Apollo-server
 
 - PostgreSQL, MySQL
 
 ## Infra
-- AWS (EC2, S3, RDS, EBS, Lambda)
+- AWS Bean stalk, CloudWatch, 
+
+- Datadog
 
 - Docker, Nginx
 
 - Travis CI
+
+
+## Strive to make code 
+- DDD
+
+- OOP
 
 
 ## Blog
