@@ -23,11 +23,13 @@
 - OOP
 
 
-## Blog
+## What defines me
 
 - [TIL](https://github.com/2donny/TIL)
 
 - [Trouble shooting](https://cold-jester-ca6.notion.site/Trouble-shooting-5b703132f8754397944149d090d7d41c)
+
+- [이력서](https://aquamarine-cabin-d7f.notion.site/37e0cb420b724e00889e6413e301b785)
 
  
 
