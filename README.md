@@ -8,9 +8,9 @@
 - PostgreSQL, MySQL
 
 ## Infra
-- AWS Bean stalk, CloudWatch, 
+- AWS ECS, Bean stalk
 
-- Datadog
+- CloudWatch, Datadog
 
 - Docker, Nginx
 
